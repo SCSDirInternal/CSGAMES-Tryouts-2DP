@@ -1,0 +1,21 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Salah/Documents/Unreal Projects/CSGAMES_Tryouts_2DP/Content/Maps/map_2d.umap",
+				"C:/Users/Salah/Documents/Unreal Projects/CSGAMES_Tryouts_2DP/Content/PNG/environment/layers/tileset_TileSet.uasset",
+				"C:/Users/Salah/Documents/Unreal Projects/CSGAMES_Tryouts_2DP/Content/PNG/environment/layers/tileset_TileMap.uasset",
+				"C:/Users/Salah/Documents/Unreal Projects/CSGAMES_Tryouts_2DP/Content/PNG/sprites/player/idle/FB__P_Idle.uasset",
+				"C:/Users/Salah/Documents/Unreal Projects/CSGAMES_Tryouts_2DP/Content/PNG/sprites/player/jump/FB_P_Jump.uasset",
+				"C:/Users/Salah/Documents/Unreal Projects/CSGAMES_Tryouts_2DP/Content/PNG/sprites/player/jump/FB_P_Fall.uasset",
+				"C:/Users/Salah/Documents/Unreal Projects/CSGAMES_Tryouts_2DP/Content/Blueprints/BP_SpriteCharacter.uasset",
+				"C:/Users/Salah/Documents/Unreal Projects/CSGAMES_Tryouts_2DP/Content/Input/IMC_2D.uasset",
+				"C:/Users/Salah/Documents/Unreal Projects/CSGAMES_Tryouts_2DP/Content/Input/Actions/IA_Jump.uasset",
+				"C:/Users/Salah/Documents/Unreal Projects/CSGAMES_Tryouts_2DP/Content/PNG/sprites/player/run/FB_P_Run.uasset"
+			]
+		}
+	]
+}
